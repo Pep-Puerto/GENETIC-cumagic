@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : genetic.c
- Author      : Txiki Portu
+ Author      : Pep Puerto
  Version     : 0.1
  Copyright   : GPL
  Description : GAC - Contenidor d'algorismes genetics
