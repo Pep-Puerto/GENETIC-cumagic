@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : genetic-cumagic.c
- Author      : Txiki Pantxo Bosti
+ Author      : Pep Puerto
  Version     : 0.1
  Copyright   : GPL
  Description : GAC - Contenidor d'algorismes genetics
